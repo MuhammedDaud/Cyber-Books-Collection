@@ -1,9 +1,5 @@
 # Cyber-Books-Collection
 
-Perfect ✅ — here’s a **README.md** draft for your GitHub repo of books, handbooks, and roadmaps in cybersecurity / bug bounty hunting.
-It’s beginner-friendly, professional, and well-structured.
-
----
 
 # 📚 Cybersecurity & Bug Bounty Resources
 
